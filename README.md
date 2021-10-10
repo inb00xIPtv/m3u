@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Qv5q65q/1529111226-1.png" group-title="",NIKMATI AJA !!!
 ============ LOKAL ============
 #EXTINF:-1 tvg-id="rcti" tvg-name="rcti" tvg-logo="https://i.postimg.cc/251LWqtr/modi.jpg" group-title="LOKAL", RCTI
 http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
